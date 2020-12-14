@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- The identifier that must be unique within the hosting gallery -->
+        <id>$id$</id>
+        <title>TextMagic - REST API Client</title>
+
+        <!-- The package version number that is used when resolving dependencies -->
+        <version>$version$</version>
+
+        <!-- Authors contain text that appears directly on the gallery -->
+        <authors>andrey.v@textmagic.biz</authors>
+
+        <!-- Owners are typically nuget.org identities that allow gallery
+             users to earily find other packages by the same owners.  -->
+        <owners>andrey.v@textmagic.biz</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <developmentDependency>false</developmentDependency>
+
+        <!-- The description can be used in package manager UI. Note that the
+             nuget.org gallery uses information you add in the portal. -->
+        <description>TextMagic REST API Library</description>
+        <copyright>Copyright ©  2019 TextMagic Ltd</copyright>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+
+        <projectUrl>https://github.com/textmagic/textmagic-rest-csharp-v2</projectUrl>
+
+        <!-- Dependencies are automatically installed when the package is installed -->
+        <dependencies>
+
+            <dependency id="NewtonSoft.Json" version="10.0.3" />
+            <dependency id="JsonSubTypes" version="1.2.0" />
+            <dependency id="RestSharp" version="105.1.0" />
+
+        </dependencies>
+    </metadata>
+    <files>
+
+        <!-- A readme.txt will be displayed when the package is installed -->
+        <file src="README.md" target="" />
+    </files>
+</package>

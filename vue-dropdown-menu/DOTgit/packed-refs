@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled sorted 
+adc78a37964a5dc7fdb2e7e908b45ee3e95fe612 refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.3
+95c8ee7fabe43b854ff4bff3e0028e3509353d91 refs/remotes/origin/dependabot/npm_and_yarn/eslint-utils-1.4.3
+c01cb3f78b0e32827d2afc5555b878a126afa0b7 refs/remotes/origin/dependabot/npm_and_yarn/http-proxy-1.18.1
+15179a0eef9760614f668d51e4c1429588ef5790 refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.19
+77bfa1ae117a59c21292ad2ceafdb8e36905dd9d refs/remotes/origin/dependabot/npm_and_yarn/lodash.defaultsdeep-4.6.1
+835354eff81ca74987c92b082f65f835554680c2 refs/remotes/origin/dependabot/npm_and_yarn/node-sass-4.13.1
+e1672d4282496ece383ec43767ecf33a33a49fed refs/remotes/origin/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+f28730b1ce8a8173ec7557a040be12cfb5106004 refs/remotes/origin/gh-pages
+5898841e2c08ae195a17cc5d153d5c470ee58fb7 refs/remotes/origin/master
+ea01977353d36531fd035f4497ef306144dc35fb refs/tags/v0.1.1
+^432baaf027e4c480c256c0f357eaab576669462b
+5a8449db40a39cfd86216f82f8173c547842e530 refs/tags/v0.1.2
+^201733e3b9ca3678dd9e3bed540327bb4737ec72
+a50e5a690fb8c2562f1d9e803d45a06352a592e7 refs/tags/v0.1.3
+^49b1a8daabaa19fcea3bb7c93f52e60237e13abc

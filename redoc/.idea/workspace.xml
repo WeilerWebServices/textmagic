@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81efd4da-a709-429f-a7bb-d1c21c1cccf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/StickySidebar/StickyResponsiveSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StickySidebar/StickyResponsiveSidebar.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setResults</find>
+      <find>OperationModel</find>
+      <find>state</find>
+      <find>clear</find>
+      <find>obser</find>
+      <find>SearchResultListProps</find>
+      <find>search</find>
+      <find>store</find>
+      <find>resolveIndex</find>
+      <find>field</find>
+      <find>Header</find>
+      <find>middlePanelWrap</find>
+      <find>getItemById</find>
+      <find>lunr</find>
+      <find>activeItemIdx</find>
+      <find>load</find>
+      <find>MarkerService</find>
+      <find>marker</find>
+      <find>observe</find>
+      <find>mark</find>
+      <find>clearResults</find>
+      <find>updateMarkOnMenu</find>
+      <find>MiddlePa</find>
+      <find>#32329f</find>
+      <find>primary.main</find>
+      <find>console.log</find>
+      <find>__REDOC_VERSION__</find>
+      <find>VERSION</find>
+      <find>REVISION</find>
+      <find>optim</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/services</dir>
+      <dir>$PROJECT_DIR$/src/components</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="worker&#9;FILE&#9;file:///private/var/www/redoc-fork/src/services/SearchWorker.worker.ts&#10;AppSto&#9;FILE&#9;file:///private/var/www/redoc-fork/src/services/AppStore.ts&#10;AppStore&#9;FILE&#9;file:///private/var/www/redoc-fork/src/services/AppStore.ts&#10;getItemById&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/SearchBox" />
+      <recent name="$PROJECT_DIR$/config/docker" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df70662-00e7-4900-9267-16efe7b1b70c" name="Default Changelist" comment="" />
+      <created>1573632084744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573632084744</updated>
+      <workItem from="1573632086235" duration="41067000" />
+      <workItem from="1573798732795" duration="1194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/services/models/Response.js" />
+        <option value="$PROJECT_DIR$/src/services/models/Example.js" />
+        <option value="$PROJECT_DIR$/src/services/models/Group.model.js" />
+        <option value="$PROJECT_DIR$/src/services/models/index.js" />
+        <option value="$PROJECT_DIR$/src/services/SearchWorker.worker.js" />
+        <option value="$PROJECT_DIR$/src/services/models/SecurityRequirement.js" />
+        <option value="$PROJECT_DIR$/src/services/models/MediaContent.js" />
+        <option value="$PROJECT_DIR$/src/services/models/SecuritySchemes.js" />
+        <option value="$PROJECT_DIR$/src/services/models/Schema.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/panels.js" />
+        <option value="$PROJECT_DIR$/src/services/models/RequestBody.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/headers.js" />
+        <option value="$PROJECT_DIR$/src/services/models/MediaType.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/schema.js" />
+        <option value="$PROJECT_DIR$/src/utils/JsonPointer.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/mixins.js" />
+        <option value="$PROJECT_DIR$/src/services/models/Operation.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/fields-layout.js" />
+        <option value="$PROJECT_DIR$/src/services/models/ApiInfo.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/dropdown.js" />
+        <option value="$PROJECT_DIR$/src/services/models/Field.js" />
+        <option value="$PROJECT_DIR$/src/utils/decorators.js" />
+        <option value="$PROJECT_DIR$/src/components/OptionsProvider.js" />
+        <option value="$PROJECT_DIR$/src/components/SideMenu/styled.elements.js" />
+        <option value="$PROJECT_DIR$/src/utils/openapi.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/index.js" />
+        <option value="$PROJECT_DIR$/src/components/SideMenu/index.js" />
+        <option value="$PROJECT_DIR$/src/utils/memoize.js" />
+        <option value="$PROJECT_DIR$/src/utils/debug.js" />
+        <option value="$PROJECT_DIR$/src/common-elements/tabs.js" />
+        <option value="$PROJECT_DIR$/src/components/index.js" />
+        <option value="$PROJECT_DIR$/src/components/StoreBuilder.js" />
+        <option value="$PROJECT_DIR$/src/utils/dom.js" />
+        <option value="$PROJECT_DIR$/src/theme.js" />
+        <option value="$PROJECT_DIR$/src/utils/helpers.js" />
+        <option value="$PROJECT_DIR$/src/utils/index.js" />
+        <option value="$PROJECT_DIR$/src/utils/highlight.js" />
+        <option value="$PROJECT_DIR$/src/utils/loadAndBundleSpec.js" />
+        <option value="$PROJECT_DIR$/src/services/Labels.js" />
+        <option value="$PROJECT_DIR$/src/services/OpenAPIParser.js" />
+        <option value="$PROJECT_DIR$/src/services/ScrollService.js" />
+        <option value="$PROJECT_DIR$/src/services/SpecStore.js" />
+        <option value="$PROJECT_DIR$/src/services/HistoryService.js" />
+        <option value="$PROJECT_DIR$/src/services/SearchStore.js" />
+        <option value="$PROJECT_DIR$/src/services/RedocNormalizedOptions.js" />
+        <option value="$PROJECT_DIR$/src/services/index.js" />
+        <option value="$PROJECT_DIR$/src/services/ClipboardService.js" />
+        <option value="$PROJECT_DIR$/src/services/MarkerService.js" />
+        <option value="$PROJECT_DIR$/src/services/MarkdownRenderer.js" />
+        <option value="$PROJECT_DIR$/src/services/AppStore.js" />
+        <option value="$PROJECT_DIR$/src/services/MenuStore.js" />
+        <option value="$PROJECT_DIR$/src/styled-components.js" />
+        <option value="$PROJECT_DIR$/src/components/Schema/index.js" />
+        <option value="$PROJECT_DIR$/src/services/MenuBuilder.js" />
+      </list>
+    </option>
+  </component>
+</project>

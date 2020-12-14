@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+4039500e22472dffe84b37edaaceb89a2bc9ed35 refs/remotes/origin/develop
+6d0630781e481c11f667914a3d7552fdb70c8c93 refs/remotes/origin/master
+8d91c334a4a9217dea751fb14a413cb0df9e1623 refs/remotes/origin/react-guzzle-refactor
+54cfc8bd084e1b5903f4936a69a0602ccd56b789 refs/remotes/origin/release-3
+8cfbe8511ea2a40e46d95a0913c9112f1c333a9e refs/tags/0.1
+^988b1284cb3d30c779acd1b69fc82a0a328bf920
+1512f9b180c4e40933b38659db0a9a0b7fe284b5 refs/tags/0.2
+^2273af5bc6a0f652813f20db5f7cbc1c976ca0da
+d2063b1d3ea4221f03242761595e032850d266b2 refs/tags/0.3
+ca730479aa6d61231afbe4db5825e8905c51b25c refs/tags/3.1
+^284796befe3ecf9daf61df8a8b02a719df646172

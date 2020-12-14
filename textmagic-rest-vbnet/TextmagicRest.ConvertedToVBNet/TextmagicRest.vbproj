@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{051581AF-101B-4C04-B643-64721FF3828B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TextmagicRest</RootNamespace>
+    <AssemblyName>TextmagicRest</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG,TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="RestSharp, Version=105.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client.vb" />
+    <Compile Include="ClientException.vb" />
+    <Compile Include="Contacts.vb" />
+    <Compile Include="Lists.vb" />
+    <Compile Include="Messages.vb" />
+    <Compile Include="Model\AvailableNumbersResult.vb" />
+    <Compile Include="Model\BaseModel.vb" />
+    <Compile Include="Model\BaseModelList.vb" />
+    <Compile Include="Model\BulkSession.vb" />
+    <Compile Include="Model\BulkSessionsResult.vb" />
+    <Compile Include="Model\Chat.vb" />
+    <Compile Include="Model\ChatMessage.vb" />
+    <Compile Include="Model\ChatMessagesResult.vb" />
+    <Compile Include="Model\ChatsResult.vb" />
+    <Compile Include="Model\Contact.vb" />
+    <Compile Include="Model\ContactList.vb" />
+    <Compile Include="Model\ContactListsResult.vb" />
+    <Compile Include="Model\ContactsResult.vb" />
+    <Compile Include="Model\Country.vb" />
+    <Compile Include="Model\CountryPricing.vb" />
+    <Compile Include="Model\Currency.vb" />
+    <Compile Include="Model\CustomField.vb" />
+    <Compile Include="Model\CustomFieldsResult.vb" />
+    <Compile Include="Model\DedicatedNumber.vb" />
+    <Compile Include="Model\DedicatedNumbersResult.vb" />
+    <Compile Include="Model\DeleteResult.vb" />
+    <Compile Include="Model\Invoice.vb" />
+    <Compile Include="Model\InvoicesResult.vb" />
+    <Compile Include="Model\LinkResult.vb" />
+    <Compile Include="Model\Message.vb" />
+    <Compile Include="Model\MessagesResult.vb" />
+    <Compile Include="Model\MessagingStats.vb" />
+    <Compile Include="Model\MessagingStatsResult.vb" />
+    <Compile Include="Model\Pricing.vb" />
+    <Compile Include="Model\RepliesResult.vb" />
+    <Compile Include="Model\Reply.vb" />
+    <Compile Include="Model\Schedule.vb" />
+    <Compile Include="Model\SchedulesResult.vb" />
+    <Compile Include="Model\SenderId.vb" />
+    <Compile Include="Model\SenderIdsResult.vb" />
+    <Compile Include="Model\SendingOptions.vb" />
+    <Compile Include="Model\SendingResult.vb" />
+    <Compile Include="Model\Session.vb" />
+    <Compile Include="Model\SessionsResult.vb" />
+    <Compile Include="Model\SourcesResult.vb" />
+    <Compile Include="Model\SpendingStats.vb" />
+    <Compile Include="Model\SpendingStatsResult.vb" />
+    <Compile Include="Model\Template.vb" />
+    <Compile Include="Model\TemplatesResult.vb" />
+    <Compile Include="Model\Timezone.vb" />
+    <Compile Include="Model\UnsubscribedContact.vb" />
+    <Compile Include="Model\UnsubscribedContactsResult.vb" />
+    <Compile Include="Model\User.vb" />
+    <Compile Include="Properties\AssemblyInfo.vb" />
+    <Compile Include="Sources.vb" />
+    <Compile Include="Templates.vb" />
+    <Compile Include="TextmagicAuthenticator.vb" />
+    <Compile Include="ValidationErrors.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
